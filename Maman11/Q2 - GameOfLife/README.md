@@ -1,5 +1,7 @@
 
-# Game Of Life
+<img src="https://camo.githubusercontent.com/3025b261ad9482b90e50c595a1a76aba9cc84e5a727ed9fb90d0eca84524ce9c/68747470733a2f2f7261772e6769746875622e636f6d2f776f6f64727566772f43476f4c2f6d61737465722f6578616d706c65732f63676f6c2e6769663f7261773d74727565" width="350" height="350"/>
+
+# Conway's Game of Life
 Conway's Game of Life is a cellular automaton game that was invented by mathematician John Conway in 1970. The game consists of a two-dimensional grid of cells that can be in one of two states - alive or dead. The state of each cell depends on the states of its neighbors. The game evolves over time, with each new generation of cells being determined by the previous generation according to some predefined set of rules.
 
 ## Requirements
