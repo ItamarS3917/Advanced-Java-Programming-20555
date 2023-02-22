@@ -7,7 +7,7 @@ This is a calendar application built using Java and JavaFX. It allows the user t
 - Java Development Kit (JDK) 8 or later
 - JavaFX 8 or later 
 
-## Using the Application
+## Usage
 When the application is launched, a calendar for the current month and year is displayed. The user can use the two combo boxes at the top of the screen to select a different month and year, and the calendar will update accordingly.
 
 The user can click on any day of the calendar to select it, and a text area at the bottom of the screen will display any text associated with that day. The user can also enter text into the text area and click the "Save" button to save the text associated with the currently selected day.
